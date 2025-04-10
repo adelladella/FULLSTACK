@@ -1,0 +1,133 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background-color: #fff3f3;
+  color: #333;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  padding: 40px 20px 20px;
+}
+
+header h1 {
+  font-size: 2.5em;
+  color: #b0236b;
+}
+
+header p {
+  font-size: 1.1em;
+  color: #555;
+}
+
+.section-title {
+  text-align: center;
+  margin: 40px 0 20px;
+  font-size: 1.8em;
+  color: #b0236b;
+}
+
+.fragrance-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin-bottom: 30px;
+}
+
+.item {
+  max-width: 250px;
+  text-align: center;
+}
+
+.item img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.item h3 {
+  margin: 10px 0 5px;
+  color: #b0236b;
+}
+
+.item p {
+  font-size: 0.95em;
+  color: #555;
+}
+
+.center-button {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+button {
+  background-color: #b0236b;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 6px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+/* Form Kontak */
+.contact-form {
+  max-width: 600px;
+  margin: 0 auto 50px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.03);
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 500;
+  color: #b0236b;
+}
+
+.form-control {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 30px 10px;
+  background-color: #ffffff;
+  margin-top: 30px;
+}
+
+footer h3 {
+  color: #b0236b;
+  margin-bottom: 10px;
+}
+
+footer ul {
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+footer li {
+  margin: 5px 0;
+  font-weight: 500;
+}
