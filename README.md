@@ -23,5 +23,31 @@ Berikut merupakan dokumentasi hasil web untuk MINPRO 1
 - **Profil Kreatif**: Memperkenalkan **Karina Cantik** (Brand Manager).
 - **Formulir Kontak**: Pengunjung dapat mengirim pesan melalui formulir.
 
+## Berikut merupakan Dokumentasi hasil website CHECKPOINT 1_Pertemuan 2.
+![FULLPAGEZZZZ](https://github.com/user-attachments/assets/413d5c04-0c1c-4906-97ef-be52e09b8cfc)
+
+### Sweet Scent Elegance - Website Penjualan Parfum
+Deskripsi:
+Sweet Scent Elegance adalah sebuah website yang menyediakan berbagai koleksi parfum dengan desain yang elegan. Website ini dirancang untuk memberikan pengalaman berbelanja yang menyenangkan dengan tampilan yang bersih dan modern. Setiap produk parfum disertai dengan deskripsi dan harga, serta kemampuan untuk memesan langsung dari halaman produk.
+Fitur Utama:
+1. Halaman Utama:
+   - Menampilkan logo dan nama website "Parfum Elegan" dengan tagline "Aroma yang Mencerminkan Kepribadianmu".
+   - Memperkenalkan koleksi parfum unggulan seperti Fresh Citrus, Sweet Rose, dan Vanilla Bliss, dengan gambar dan deskripsi.
+   - Tombol navigasi yang memudahkan pengunjung untuk mengakses berbagai halaman seperti Beranda, Produk, Pesan, dan Kontak.
+
+2. Koleksi Parfum:
+   - Setiap parfum memiliki gambar, nama, dan deskripsi singkat mengenai aromanya.
+   - Pengguna dapat melihat berbagai pilihan parfum yang tersedia dalam kategori "Koleksi Parfum".
+
+3. Pesan Sekarang:
+   - Menyediakan tombol "Pesan Sekarang" di setiap parfum untuk langsung memesan produk.
+   - Setiap produk parfum juga disertai dengan harga dan rating dari pengguna lain.
+   - Profil Manajer Merek:
+   - Profil Karina Cantik, sebagai Brand Manager dan Penggemar Parfum, dengan foto dan deskripsi mengenai latar belakang dan komitmennya dalam menciptakan pengalaman parfum yang menyentuh jiwa.
+   - Tersedia tombol "Hubungi Saya" yang dapat mengarahkan pengunjung untuk berinteraksi langsung dengan manajer merek.
+
+4. Formulir Kontak:
+   - Pengunjung dapat mengirimkan pertanyaan atau pesan melalui formulir kontak yang tersedia di halaman kontak.
+   - Formulir meminta nama, email, dan pesan dari pengunjung.
 
 
